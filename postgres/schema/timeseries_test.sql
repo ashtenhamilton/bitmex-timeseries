@@ -7,5 +7,6 @@ create table timeseries_test
     close numeric,
     high numeric,
     low numeric,
-    volume bigint
+    volume bigint,
+    CVD bigint
 );
