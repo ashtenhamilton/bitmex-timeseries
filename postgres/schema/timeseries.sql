@@ -1,7 +1,7 @@
 create table timeseries
 (
     ts timestamp,
-    interval int,
+    interval text,
     symbol text,
     open numeric,
     close numeric,
